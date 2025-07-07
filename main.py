@@ -75,5 +75,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# def hey my name is matan
-# checkpoint checkpointtt
