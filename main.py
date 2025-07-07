@@ -12,7 +12,7 @@ def show_menu():
      print("5.Last five entries ")
      print("6.Sort by high age to low age ")
      print("7.Export to excel")
-     print("8.Exit")
+     print("8.Exit the program")
 
 def main():
      while True:
