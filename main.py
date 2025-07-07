@@ -57,7 +57,7 @@ def main():
           elif choice == "6":
                data = load_responses_from_file()
                sorted_data = sort_by_age(data)
-               print("Sorted by age (high to low):")
+               print("Sorted by age (high to low) desc:")
                for record in sorted_data:
                     print(record)
 
